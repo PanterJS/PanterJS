@@ -13,8 +13,10 @@ Altro ins eguito
  
 ---
  
-## Linguaggi e strumenti
+## Linguaggi
  
-[![Skills](https://skillicons.dev/icons?i=python,js,html,css,git,linux)](https://skillicons.dev)
-  
-[![Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,html,css,php,git,bush,haskell,latex,maven,md,mongodb,mysql,yacc,scheme,lex)](https://skillicons.dev)
+
+## Strumenti
+
+[![Skills](https://skillicons.dev/icons?i=eclipse,arduino,linux,ubuntu,windows,autocad,gamemakerstudio,unity,powershell,vim,vscode)](https://skillicons.dev)
