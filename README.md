@@ -15,7 +15,7 @@ Altro ins eguito
  
 ## Linguaggi
  
-[![Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,html,css,php,git,bush,haskell,latex,maven,md,mongodb,mysql,yacc,scheme,lex)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,html,css,php,git,bash,haskell,latex,maven,md,mongodb,mysql,yacc,scheme,lex)](https://skillicons.dev)
 
 ## Strumenti
 
