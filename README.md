@@ -16,24 +16,18 @@ Altro ins eguito
 ## Linguaggi e strumenti
  
 [![Skills](https://skillicons.dev/icons?i=python,js,html,css,git,linux)](https://skillicons.dev)
- 
+  
+[![Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 ---
  
 ## Statistiche GitHub
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanterJS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanterJS&layout=compact&theme=tokyonight&hide_border=true)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=PanterJS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanterJS&theme=tokyonight&hide_border=true&layout=compact" height="180" />
 </div>
-<!-- 
-  Sostituisci TUOUSERNAME con il tuo username GitHub in entrambe le URL.
-  Temi disponibili: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
- 
 ---
  
 <div align="right">
-  <sub>Ultima modifica: [04 2026]</sub>
+  <sub>Ultima modifica: [MESE ANNO]</sub>
 </div>
