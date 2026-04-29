@@ -22,7 +22,7 @@ Altro ins eguito
 ## Statistiche GitHub
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanterJS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanterJS&layout=compact&theme=tokyonight&hide_border=true)
  
