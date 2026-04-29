@@ -1,19 +1,20 @@
 ## Hi there 👋
 
-> *"[UNA FRASE CHE TI RAPPRESENTA — può essere seria, ironica, o una citazione]"*
-> — [fonte, o "probabilmente tu"]
+> *"[Quando compare un nuovo Bug significa che stai facendo progressi!]"*
+> — ["Semplicemente io"]
  
 ---
  
-Studente di [CORSO DI LAUREA] presso [UNIVERSITÀ]. [UNA O DUE FRASI SU DI TE: cosa ti interessa, cosa stai studiando o costruendo.]
+Studente di [Ingegneria Informatica] presso [Università degli Studi di Brescia].  
+
+Altro ins eguito
  
-[AGGIUNGI QUI QUALCOSA DI PERSONALE — un hobby, una passione, qualcosa di insolito. Anche una sola riga.]
+[hobby]
  
 ---
  
 ## Linguaggi e strumenti
  
-<!-- Sostituisci i valori dopo i=... con i tuoi linguaggi. Lista completa: https://skillicons.dev -->
 [![Skills](https://skillicons.dev/icons?i=python,js,html,css,git,linux)](https://skillicons.dev)
  
 ---
@@ -23,7 +24,7 @@ Studente di [CORSO DI LAUREA] presso [UNIVERSITÀ]. [UNA O DUE FRASI SU DI TE: c
 <div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanterJS&layout=compact&theme=tokyonight&hide_border=true)
  
 </div>
 <!-- 
@@ -34,5 +35,5 @@ Studente di [CORSO DI LAUREA] presso [UNIVERSITÀ]. [UNA O DUE FRASI SU DI TE: c
 ---
  
 <div align="right">
-  <sub>Ultima modifica: [MESE ANNO]</sub>
+  <sub>Ultima modifica: [04 2026]</sub>
 </div>
