@@ -29,4 +29,4 @@ Principalmente sono tre:
 
 [![Skills](https://skillicons.dev/icons?i=eclipse,arduino,linux,ubuntu,windows,github,autocad,gamemakerstudio,matlab,unity,powershell,vim,vscode)](https://skillicons.dev)
 
-Non per tutti i linguaggi/strumenti elencati ho svluppato le stesse competenze/capacità per usare a pieno le loro potenzialità. **Sto imparando passo passo** :stuck_out_tongue_winking_eye: .
+Non per tutti i linguaggi/strumenti elencati ho svluppato le stesse competenze/capacità per usare a pieno le loro potenzialità. Quelli elencati sono linguaggi/strumenti ai quali mi sono approcciato (anche in forma minimale come scrivere solo una riga di codice) e che, tempo permettendo, esploro liberamente. **Sto imparando passo passo quindi se indico, per esempio, Lex NON SIGNIFICA CHE NE SONO UN ESPERTO** :stuck_out_tongue_winking_eye: .
