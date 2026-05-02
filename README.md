@@ -18,6 +18,13 @@ Principalmente sono tre:
 ## Linguaggi
  
 [![Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,html,css,php,git,bash,haskell,latex,maven,md,mongodb,mysql,yacc,scheme,lex)](https://skillicons.dev)
+<p align="left">
+  <!-- Le tue icone attuali... -->
+  <img src="https://raw.githubusercontent.com/swi-prolog/swipl/master/maint/swipl.ico" width="40" height="40" alt="Prolog">
+  <img src="https://img.shields.io/badge/COBOL-005CAC?style=for-the-badge&logo=ibm&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Lex-F0AD4E?style=for-the-badge&logo=accenture&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Yacc-D9534F?style=for-the-badge&logo=expertcity&logoColor=white" height="40">
+</p>
 
 ## Strumenti
 
